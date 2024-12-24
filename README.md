@@ -2,7 +2,7 @@
 
 ## Dataset - Ships Dataset
 
-The dataset you will be working with is uploaded as zip file
+The dataset you will be working with is: https://drive.google.com/drive/folders/1fGNDdVUZPkfq-FJR9acBA_SStIC-Bpd4?usp=sharing
 
 ### Files Uploaded:
 1. training ipynb and pdf files
